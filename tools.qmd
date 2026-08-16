@@ -1,0 +1,89 @@
+---
+title: "Tools & Software"
+---
+
+# Tools & Software
+
+A selection of software and platforms used across research, data
+collection, analysis, visualization, stakeholder analysis, and
+reproducible workflows.
+
+::: {.tools-section}
+
+## Statistical & Analytical
+
+<div class="tool-list">
+<span>R</span>
+<span>Stata</span>
+<span>Python</span>
+</div>
+
+:::
+
+
+::: {.tools-section}
+
+## Survey & Data Collection
+
+<div class="tool-list">
+<span>SurveyCTO</span>
+<span>ODK</span>
+<span>KoboToolbox</span>
+</div>
+
+:::
+
+
+::: {.tools-section}
+
+## Data Management & Transformation
+
+<div class="tool-list">
+<span>Microsoft Excel</span>
+<span>Power Query</span>
+<span>R</span>
+<span>Stata</span>
+<span>Python</span>
+</div>
+
+:::
+
+
+::: {.tools-section}
+
+## Data Visualization & Business Intelligence
+
+<div class="tool-list">
+<span>Power BI</span>
+<span>Tableau</span>
+<span>R</span>
+<span>Python</span>
+</div>
+
+:::
+
+
+::: {.tools-section}
+
+## Qualitative & Stakeholder Analysis
+
+<div class="tool-list">
+<span>Dedoose</span>
+<span>NVivo</span>
+<span>Kumu</span>
+</div>
+
+:::
+
+
+::: {.tools-section}
+
+## Research & Reproducible Workflows
+
+<div class="tool-list">
+<span>Quarto</span>
+<span>Git</span>
+<span>GitHub</span>
+</div>
+
+:::

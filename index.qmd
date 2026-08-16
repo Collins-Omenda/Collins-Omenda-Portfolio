@@ -1,0 +1,159 @@
+---
+title: "Collins Otieno Omenda"
+---
+
+::: {.hero}
+
+<div class="hero-content">
+
+<div class="hero-eyebrow">
+RESEARCH • DATA • EVIDENCE
+</div>
+
+# Research Statistician, Data Scientist & M&E Specialist
+
+<p class="hero-description">
+I work at the intersection of research, statistics, data science, and
+monitoring and evaluation, using data and rigorous analytical approaches
+to generate evidence for research, programmes, and decision-making.
+</p>
+
+<div class="hero-buttons">
+
+<a href="projects.qmd" class="btn-primary">View Projects</a>
+
+<a href="publications.qmd" class="btn-secondary">View Publications</a>
+
+</div>
+
+</div>
+
+:::
+
+
+## About
+
+I am a Research Statistician, Data Scientist, and Monitoring and
+Evaluation specialist with experience in survey research, biostatistics,
+data management, statistical analysis, stakeholder analysis, proposal
+development, and scientific research and writing.
+
+My work spans multidisciplinary research projects in public health,
+epidemiology, survey research, monitoring and evaluation, and programme
+assessment.
+
+[More about me →](about.qmd)
+
+
+## Selected Projects
+
+::: {.project-grid}
+
+::: {.project-card}
+
+<div class="project-label">SURVEY RESEARCH</div>
+
+<h3>HPV IMPACT</h3>
+
+<p>
+A multi-country research project focused on improving methods for
+measuring HPV vaccination coverage and equity among adolescent girls.
+</p>
+
+<div class="project-tools">
+SurveyCTO · R · Stata
+</div>
+
+<a href="projects.qmd">View project →</a>
+
+:::
+
+
+::: {.project-card}
+
+<div class="project-label">EPIDEMIOLOGICAL RESEARCH</div>
+
+<h3>KEMIS</h3>
+
+<p>
+A multi-site serosurveillance initiative in Kenya that generated
+evidence on SARS-CoV-2 and other pathogens through population-based
+surveys.
+</p>
+
+<div class="project-tools">
+SurveyCTO · R · Stata
+</div>
+
+<a href="projects.qmd">View project →</a>
+
+:::
+
+
+::: {.project-card}
+
+<div class="project-label">POLITICAL ECONOMY</div>
+
+<h3>EJAF</h3>
+
+<p>
+A project examining the political economy and value for money of
+EJAF-supported HIV prevention and care programmes in Kenya.
+</p>
+
+<div class="project-tools">
+Dedoose · Kumu
+</div>
+
+<a href="projects.qmd">View project →</a>
+
+:::
+
+:::
+
+
+## Areas of Expertise
+
+<div class="expertise-grid">
+
+<div>
+<strong>Survey Research</strong>
+<span>Survey methodology, fieldwork and data quality</span>
+</div>
+
+<div>
+<strong>Biostatistics</strong>
+<span>Statistical analysis and applied modelling</span>
+</div>
+
+<div>
+<strong>Monitoring & Evaluation</strong>
+<span>Programme assessment and evidence generation</span>
+</div>
+
+<div>
+<strong>Data Science</strong>
+<span>Data analysis, visualization and data-driven solutions</span>
+</div>
+
+<div>
+<strong>Stakeholder Analysis</strong>
+<span>Stakeholder mapping and political economy analysis</span>
+</div>
+
+<div>
+<strong>Scientific Research</strong>
+<span>Scientific writing and proposal development</span>
+</div>
+
+</div>
+
+
+## Research & Evidence
+
+I am interested in applying rigorous statistical methods, data science,
+and emerging technologies to research and evidence generation. I value
+analytical rigour, reproducibility, clear communication, and the
+responsible use of data to support better decisions.
+
+[Explore my skills →](skills.qmd)

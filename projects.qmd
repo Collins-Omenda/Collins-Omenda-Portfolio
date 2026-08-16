@@ -1,0 +1,121 @@
+---
+title: "Projects"
+---
+
+# Selected Projects
+
+A selection of research, statistical, monitoring and evaluation, and
+analytical projects to which I have contributed.
+
+::: {.portfolio-project-grid}
+
+::: {.portfolio-project-card}
+
+<div class="portfolio-project-category">
+SURVEY RESEARCH
+</div>
+
+<h2>HPV IMPACT</h2>
+
+<p class="portfolio-project-summary">
+A multi-country research initiative focused on improving methods for
+measuring HPV vaccination coverage and equity among adolescent girls.
+The project was implemented in Rwanda, Senegal, and Liberia.
+</p>
+
+<div class="portfolio-project-section">
+<strong>My contributions</strong>
+
+<p>
+Survey methodology · Data management · Data quality monitoring ·
+Statistical analysis · Scientific writing
+</p>
+</div>
+
+<div class="portfolio-project-section">
+<strong>Tools</strong>
+
+<p>SurveyCTO · R · Stata</p>
+</div>
+
+<a href="https://aphrc.org/project/improving-methods-for-measuring-the-coverage-and-equity-of-human-papillomavirus-hpv-vaccination-in-gavi-priority-countries/"
+target="_blank">
+View project on APHRC →
+</a>
+
+:::
+
+
+::: {.portfolio-project-card}
+
+<div class="portfolio-project-category">
+EPIDEMIOLOGICAL RESEARCH
+</div>
+
+<h2>KEMIS</h2>
+
+<p class="portfolio-project-summary">
+A multi-site serosurveillance initiative in Kenya that generated
+evidence on SARS-CoV-2 and other pathogens through population-based
+surveys and contributed to public health decision-making.
+</p>
+
+<div class="portfolio-project-section">
+<strong>My contributions</strong>
+
+<p>
+Data analysis · Statistical analysis · Scientific writing ·
+Manuscript development
+</p>
+</div>
+
+<div class="portfolio-project-section">
+<strong>Tools</strong>
+
+<p>SurveyCTO · R · Stata</p>
+</div>
+
+<a href="https://microdataportal.aphrc.org/index.php/catalog/146"
+target="_blank">
+View project data & documentation on APHRC →
+</a>
+
+:::
+
+
+::: {.portfolio-project-card}
+
+<div class="portfolio-project-category">
+POLITICAL ECONOMY & VALUE FOR MONEY
+</div>
+
+<h2>EJAF</h2>
+
+<p class="portfolio-project-summary">
+A project examining the political economy and value for money of
+EJAF-supported HIV prevention and care programmes in Kenya.
+</p>
+
+<div class="portfolio-project-section">
+<strong>My contributions</strong>
+
+<p>
+Stakeholder mapping · Stakeholder analysis · Political economy
+analysis
+</p>
+</div>
+
+<div class="portfolio-project-section">
+<strong>Tools</strong>
+
+<p>Dedoose · Kumu</p>
+</div>
+
+<a href="https://aphrc.org/project/political-economy-and-value-for-money-analysis-of-hiv-preventive-and-care-services-in-kenya-ejaf/"
+target="_blank">
+View project on APHRC →
+</a>
+
+:::
+
+:::

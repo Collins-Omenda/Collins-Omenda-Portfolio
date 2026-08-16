@@ -1,0 +1,139 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+Selected peer-reviewed publications and research outputs to which I have
+contributed.
+
+## Peer-Reviewed Publications
+
+::: {.publication-list}
+
+::: {.publication-item}
+
+<div class="publication-year">2026</div>
+
+<div class="publication-content">
+
+### Timeliness of vaccine administration among children in urban informal settlements in Nairobi, Kenya
+
+**Ng’oda M, Izudi J, Omenda C, Njeri A, Mbaya N, Ziraba A.**
+
+*PLOS Global Public Health, 6*(2), e0005462.
+
+**Project:** Kenya Multisite Integrated Serosurveillance (KEMIS)
+
+<a href="https://doi.org/10.1371/journal.pgph.0005462" target="_blank">
+View publication →
+</a>
+
+</div>
+
+:::
+
+
+::: {.publication-item}
+
+<div class="publication-year">2025</div>
+
+<div class="publication-content">
+
+### Completion of Multidose COVID-19 Vaccination Among Adolescents and Adults in Urban Informal Settlements in Nairobi, Kenya
+
+**Ng’oda M, Izudi J, Otieno C, Mwanga D, Sanya RE, Ziraba A.**
+
+*American Journal of Tropical Medicine and Hygiene, 113*(2), 338–343.
+
+**Project:** Kenya Multisite Integrated Serosurveillance (KEMIS)
+
+<a href="https://doi.org/10.4269/ajtmh.24-0737" target="_blank">
+View publication →
+</a>
+
+</div>
+
+:::
+
+
+::: {.publication-item}
+
+<div class="publication-year">2023</div>
+
+<div class="publication-content">
+
+### Bayesian Interval Estimation in a Non-Homogeneous Poisson Process with Delayed S-Shaped Intensity Function
+
+**Otieno Collins, Orawo Luke Akong’o, Matiri George Munene, & Justin
+Obwoge Okenye.**
+
+*American Journal of Theoretical and Applied Statistics, 12*(3), 43–50.
+
+<a href="https://doi.org/10.11648/j.ajtas.20231203.12" target="_blank">
+View publication →
+</a>
+
+</div>
+
+:::
+
+
+::: {.publication-item}
+
+<div class="publication-year">2023</div>
+
+<div class="publication-content">
+
+### One-Sample Bayesian Predictive Analyses for a Nonhomogeneous Poisson Process with Delayed S-Shaped Intensity Function Using Non-Informative Priors
+
+**Otieno Collins, Orawo Luke Akong’o, & Matiri George Munene.**
+
+*Open Journal of Statistics, 13*, 717–733.
+
+<a href="https://doi.org/10.4236/ojs.2023.135034" target="_blank">
+View publication →
+</a>
+
+</div>
+
+:::
+
+:::
+
+
+## Manuscripts & Research Papers
+
+Research manuscripts and papers developed through ongoing and completed
+research projects.
+
+::: {.empty-section}
+
+Additional manuscripts and research papers will be added as they become
+available.
+
+:::
+
+
+## Reports & Technical Outputs
+
+Selected technical reports, analytical reports, and other research
+outputs.
+
+::: {.empty-section}
+
+Additional reports and technical outputs will be added here.
+
+:::
+
+
+## Conference Presentations
+
+Selected presentations of research findings at conferences, workshops,
+and scientific meetings.
+
+::: {.empty-section}
+
+Additional conference presentations will be added here.
+
+:::

@@ -1,0 +1,122 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a **Research Statistician, Data Scientist, and Monitoring and
+Evaluation specialist** with experience in applied research, survey
+methodology, biostatistics, data management, statistical analysis,
+stakeholder analysis, proposal development, and evidence generation.
+
+My work focuses on using rigorous analytical approaches and data-driven
+methods to generate evidence that supports research, programme
+improvement, and decision-making. I have contributed to multidisciplinary
+research projects spanning survey research, epidemiology, public health,
+monitoring and evaluation, and programme assessment.
+
+
+## Professional Focus
+
+::: {.about-focus-grid}
+
+::: {.about-focus-card}
+
+### Survey Research & Methodology
+
+Survey design, sampling, fieldwork monitoring, data quality, and survey
+operations.
+
+:::
+
+::: {.about-focus-card}
+
+### Biostatistics & Statistical Analysis
+
+Applied statistical methods, regression modelling, statistical
+interpretation, and biostatistical analysis.
+
+:::
+
+::: {.about-focus-card}
+
+### Monitoring & Evaluation
+
+Programme assessment, indicators, performance measurement, and evidence
+generation.
+
+:::
+
+::: {.about-focus-card}
+
+### Data Science
+
+Data analysis, visualization, analytical workflows, and data-driven
+applications.
+
+:::
+
+::: {.about-focus-card}
+
+### Stakeholder Analysis
+
+Stakeholder mapping, stakeholder analysis, and political economy
+assessment.
+
+:::
+
+::: {.about-focus-card}
+
+### Scientific Research
+
+Scientific writing, manuscript development, proposal development, and
+research dissemination.
+
+:::
+
+:::
+
+
+## Research & Analytical Experience
+
+I have worked across multidisciplinary research teams, contributing to
+the design, management, analysis, and reporting of research studies. My
+experience includes working with survey and epidemiological data,
+supporting data quality processes, conducting statistical analyses,
+developing analytical outputs, contributing to scientific manuscripts,
+and supporting research dissemination.
+
+My project experience includes multi-country HPV vaccination research,
+integrated serosurveillance in Kenya, and political economy and
+value-for-money analysis of HIV prevention and service delivery
+programmes.
+
+
+## Approach to Data and Research
+
+I am particularly interested in connecting sound statistical methods
+with practical research and programme questions. I value analytical
+rigour, reproducibility, clear communication, and the responsible use
+of data to generate evidence that can inform decisions.
+
+I am also interested in the growing role of data science and artificial
+intelligence in research and evidence generation, particularly where
+these technologies can improve efficiency, strengthen analytical
+workflows, and make complex information more accessible.
+
+
+## Core Areas
+
+<div class="about-tags">
+
+<span>Survey Research</span>
+<span>Biostatistics</span>
+<span>Monitoring & Evaluation</span>
+<span>Data Science</span>
+<span>Stakeholder Analysis</span>
+<span>Data Management</span>
+<span>Scientific Writing</span>
+<span>Proposal Development</span>
+<span>Artificial Intelligence</span>
+
+</div>

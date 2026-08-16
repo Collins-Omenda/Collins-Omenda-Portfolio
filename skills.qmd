@@ -1,0 +1,101 @@
+---
+title: "Skills"
+---
+
+# Skills
+
+My professional capabilities span research methodology, statistical
+analysis, monitoring and evaluation, data science, stakeholder analysis,
+and scientific communication.
+
+::: {.skills-grid}
+
+::: {.skill-card}
+
+<div class="skill-icon">01</div>
+
+### Research & Methodology
+
+Survey Research · Survey Methodology · Biostatistics · Epidemiological
+Research · Scientific Research · Proposal Development
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">02</div>
+
+### Statistical Analysis
+
+Statistical Analysis · Statistical Modelling · Regression Analysis ·
+Time-Series Analysis · Econometrics · Data Interpretation
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">03</div>
+
+### Monitoring & Evaluation
+
+Monitoring & Evaluation · Indicator Development · Programme Assessment ·
+Performance Measurement · Evidence Generation
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">04</div>
+
+### Data Management & Quality
+
+Data Cleaning · Data Validation · Data Quality Assurance · Data
+Documentation · Reproducible Workflows
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">05</div>
+
+### Data Science & Visualization
+
+Data Science · Data Analysis · Data Visualization · Dashboard
+Development · Data-Driven Solutions
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">06</div>
+
+### Stakeholder & Qualitative Analysis
+
+Stakeholder Mapping · Stakeholder Analysis · Political Economy Analysis ·
+Qualitative Data Analysis
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">07</div>
+
+### Scientific Communication
+
+Scientific Writing · Manuscript Development · Research Reporting ·
+Proposal Development · Evidence Synthesis
+
+:::
+
+::: {.skill-card}
+
+<div class="skill-icon">08</div>
+
+### Artificial Intelligence & Responsible AI
+
+AI-Assisted Research · AI-Assisted Data Analysis · Research Workflow
+Automation  · Responsible and Ethical AI Use · AI Applications for Data and Evidence Generation
+
+:::
+
+:::

@@ -1,0 +1,64 @@
+---
+title: "Contact"
+---
+
+# Get in Touch
+
+I am open to opportunities for research collaboration, statistical
+consulting, data analysis, monitoring and evaluation, and other
+evidence-focused projects.
+
+<div class="contact-grid">
+
+<div class="contact-card">
+
+### Email
+
+For professional and research-related enquiries.
+
+<a href="mailto:otienoc292@gmail.com">
+otienoc292@gmail.com
+</a>
+
+</div>
+
+
+<div class="contact-card">
+
+### LinkedIn
+
+Connect with me professionally and follow my work.
+
+<a href="https://www.linkedin.com/in/collins-otieno-omenda-5847a028b/" target="_blank">
+View LinkedIn profile →
+</a>
+
+</div>
+
+
+<div class="contact-card">
+
+### GitHub
+
+Explore selected code, analytical workflows, and data science projects.
+
+<a href="YOUR_GITHUB_URL" target="_blank">
+View GitHub profile →
+</a>
+
+</div>
+
+
+<div class="contact-card">
+
+### ORCID
+
+View my research profile and publication record.
+
+<a href="https://orcid.org/0009-0004-7321-9086" target="_blank">
+View ORCID profile →
+</a>
+
+</div>
+
+</div>

@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Collins"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: about.qmd
+        text: About
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: skills.qmd
+        text: Skills
+      
+      - href: tools.qmd
+        text: Tools & Software
+
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    left: "© 2026 Collins"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
